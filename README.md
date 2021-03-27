@@ -1,9 +1,5 @@
 REPORT ON INTAL - ARBITRARY LENGTH POSITIVE INTEGERS IMPLEMENTATION.
 
-SUBMITTED BY:-  
-NAME: Nitish S
-
-
 PROBLEM STATEMENT:-  
 
 Develop a C library for the integers of arbitrary length (intal).
